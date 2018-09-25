@@ -1,0 +1,2 @@
+D:\AzureFIARMTMPV1\AzureFIARMTMPV1\obj\Debug\AzureFIARMTMPV1.deployprojAssemblyReference.cache
+D:\AzureFIARMTMPV1\AzureFIARMTMPV1\obj\Debug\AzureFIARMTMPV1.deployproj.CoreCompileInputs.cache

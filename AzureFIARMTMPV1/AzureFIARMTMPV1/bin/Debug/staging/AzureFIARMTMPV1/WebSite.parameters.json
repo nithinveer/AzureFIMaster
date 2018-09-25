@@ -1,0 +1,21 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "webSiteName": {
+      "value": "AzureFITest7"
+    },
+    "storageAccountName": {
+      "value": "examplestorageaccount"
+    },
+    "ClientId": {
+      "value": "34361fe4-20c7-44f5-b25c-2de77646f9fa"
+    },
+    "ClientSecretKey": {
+      "value": "XP4esH3vogfpoC+yMalLD0z8Le8/VOpshWQXbqRZf7A="
+    },
+    "TenantId": {
+      "value": "fa23f4b5-cee9-4c9e-a774-d31b0f10c151"
+    }
+  }
+}
